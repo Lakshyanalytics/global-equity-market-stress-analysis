@@ -1,0 +1,1 @@
+# global-equity-market-stress-analysis
