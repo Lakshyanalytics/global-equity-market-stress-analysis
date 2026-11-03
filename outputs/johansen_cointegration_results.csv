@@ -1,0 +1,6 @@
+Rank hypothesis,Trace statistic,5% critical value,Reject at 5%
+r = 0,51.598841843113696,69.8189,False
+r <= 1,28.16788969764848,47.8545,False
+r <= 2,13.462493172169847,29.7961,False
+r <= 3,6.316863619164903,15.4943,False
+r <= 4,0.029115358967730213,3.8415,False
